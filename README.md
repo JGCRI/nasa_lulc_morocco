@@ -1,5 +1,5 @@
 <!-- badges: start --> 
-[![docs](https://github.com/JGCRI/nasa_lulc_morocco/actions/workflows/docs.yaml/badge.svg?branch=main)](https://github.com/JGCRI/nasa_lulc_morocco/actions/workflows/docs.yaml)
+[![docs](https://github.com/JGCRI/nasa_lulc_morocco/actions/workflows/docs.yaml/badge.svg)](https://github.com/JGCRI/nasa_lulc_morocco/actions/workflows/docs.yaml)
 <!-- badges: end -->
 # nasa_lulc_morocco
 
