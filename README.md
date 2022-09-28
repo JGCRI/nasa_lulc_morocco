@@ -7,5 +7,5 @@ Meta-repository for: *NASA_LULC_MOROCCO*
 
 <br>
 <p align="center">
-<a href = "metarepo.html"> <img src="https://github.com/JGCRI/jgcricolors/blob/main/vignettes/button_metarepo.PNG?raw=true" height="60"/> </a>
+<a href = "https://jgcri.github.io/nasa_lulc_morocco/"> <img src="https://github.com/JGCRI/jgcricolors/blob/main/vignettes/button_metarepo.PNG?raw=true" height="60"/> </a>
 </p>
