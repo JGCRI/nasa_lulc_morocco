@@ -1,0 +1,60 @@
+---
+pagetitle: nasa_lulc_morocco
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    #toc_depth: 3
+    #number_sections: false
+    theme: cosmo
+    #inverse: true
+---
+
+```{r child = 'header.rmd'}
+```
+
+<!-------------------------->
+<!-------------------------->
+# Data
+<!-------------------------->
+<!-------------------------->
+<p align="center">![](images/divider.png)</p>
+
+<br>
+
+## Final Outputs
+
+<br>
+
+
+<!-------------------------->
+<!-------------------------->
+# Models Used
+<!-------------------------->
+<!-------------------------->
+<p align="center">![](images/divider.png)</p>
+
+<br>
+
+
+
+<!-------------------------->
+<!-------------------------->
+# Workflow
+<!-------------------------->
+<!-------------------------->
+<p align="center">![](images/divider.png)</p>
+
+<br>
+
+
+<!-------------------------->
+<!-------------------------->
+# Results {.tabset}
+<!-------------------------->
+<!-------------------------->
+<p align="center">![](images/divider.png)</p>
+
+<br>
+

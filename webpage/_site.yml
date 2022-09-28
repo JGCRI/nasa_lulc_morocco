@@ -1,0 +1,21 @@
+navbar:
+  title: "nasa_lulc_morocco"
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Meta Repository"
+      icon: fas fa-book
+      href: metarepo.html
+  right:
+    - text: "Appendix"
+      href: appendix.html
+    - icon: fas fa-quote-left
+      text: Citation
+      href: CITATION.html
+    - icon: fab fa-github
+      href: https://github.com/jgcri/nasa_lulc_morocco
+
+output:
+  html_document:
+    theme: cosmo
+    css: "style.css"

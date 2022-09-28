@@ -1,0 +1,23 @@
+---
+pagetitle: nasa_lulc_morocco
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    #toc_depth: 3
+    #number_sections: false
+    theme: cosmo
+    #inverse: true
+---
+
+```{r child = 'header.rmd'}
+```
+
+<!-------------------------->
+<!-------------------------->
+# Workflows Summary
+<!-------------------------->
+<!-------------------------->
+<p align="center">![](images/divider.png)</p>
+

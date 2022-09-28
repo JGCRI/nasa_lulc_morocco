@@ -1,0 +1,35 @@
+---
+pagetitle: nasa_lulc_morocco
+---
+
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(echo=FALSE, out.width="100%", results = "show")
+```
+
+<!-------------------------->
+<!-------------------------->
+<h1 style="float:left;font-size:60px;vertical-align:middle"> Welcome </h1>
+<img src="images/logo_pnnl.png" style="float:right;height:100px;">
+<!-------------------------->
+<!-------------------------->
+
+<p align="center"> <img src="images/divider.png"></p>
+<!-------------------------->
+<!-------------------------->
+# NASA LULC MOROCCO
+<!-------------------------->
+<!-------------------------->
+<p align="center"> <img src="images/divider.png"></p>
+
+Urbanization represents a small areal fraction of global land transformation; however, it occupies earth’s most fertile and productive lands, and its ecological impact is significant and long lasting on the landscape. Over the last few decades, urban expansion has been rapid and significant, especially in developing countries where the population is becoming increasingly urban and where changing land rights and ownership have led to expansion of suburban areas. Morocco, a developing country in Northwest Africa, is emblematic of these trends. Moroccan cities have high growth potential, particularly in terms of land use and verticality. However, urban policies in Morocco need improvement to accommodate the growing number of households forced to live in urban outskirts because of housing prices, and more generally to address environmental, economic, and social issues and regulate urban development as defined by the United Nations framework. Research on the specific physical processes associated with urbanization is needed to assess the impact of urban land conversion on local and regional surface climate and its impact on society. This research will help us understand the interactions between urban landscapes and surface climate and the relationships between urban land use and societies, and will provide managers and policymakers a knowledge platform to consider in urban planning.
+
+<p align="center"> <img src="images/divider.png"></p>
+
+<div class="container_map_outer">
+<div class="container_map">
+  <a href = "metarepo.html">
+<img src="https://github.com/JGCRI/jgcricolors/blob/main/vignettes/button_metarepo.PNG?raw=true" height="60"/>
+</a>
+</div>
+</div>
